@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Anyo.WindowsForms.CommonFunctionality</name>
+    </assembly>
+    <members>
+        <member name="T:Anyo.WindowsForms.CommonFunctionality.DataManipulation">
+            <summary>
+            This class provides functionality for processing,verification and receiving data
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Anyo.WindowsForms.CommonFunctionality.DataManipulation.AddColumnsTheirNamesInDataTable(System.Data.DataTable,System.String[])" -->
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.DataManipulation.FillTextBoxesAndComboBoxesWithGridViewRowData(System.Windows.Forms.Panel,System.Windows.Forms.DataGridView)">
+            <summary>
+            Fill only TextBoxes and ComboBoxes in specific System.Windows.Forms.Panel 
+            with data from selected row of specific System.Windows.Forms.DataGridView object.
+            Data fill according tabIndex of controls in a Panel container 
+            and index of columns in the DataGridView.Columns collection.
+            </summary>
+            <param name="panelName">Current Panel container that contains TextBoxes and ComboBoxes</param>
+            <param name="dataGridViewName">Current DataGridView instance which is a source of data</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.DataManipulation.IsValueExistsInDB(System.String,System.String,System.String,System.String)">
+            <summary>
+            Check whether the value exists in specific table in database
+            </summary>
+            <param name="connectionStr">Connection string to the database that contains the table</param>
+            <param name="tableName">Table name</param>
+            <param name="columName">Column name that contains the value</param>
+            <param name="value">Value to check</param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Anyo.WindowsForms.CommonFunctionality.DataManipulation.ListToDataTable``1(System.Collections.Generic.List{``0})" -->
+        <member name="T:Anyo.WindowsForms.CommonFunctionality.UI.Clear">
+            <summary>
+            This class provides the functionality to clear controls
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.UI.Clear.AllTextBoxesAndComboBoxes(System.Windows.Forms.Control)">
+            <summary>
+            Clear all TeztBoxes and ComboBoxes in specific container like Panels,GroupeBox,etc.
+            </summary>
+            <param name="containerControl">Name of the container control</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.UI.Clear.TextBoxesInSpecificContainer(System.Windows.Forms.Control)">
+            <summary>
+            Clear all TextBoxes in specific container like Panels,GroupeBox,etc.
+            </summary>
+            <param name="controlContainerName">Name of the container control</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.UI.Clear.ComboBoxesInSpecificContainer(System.Windows.Forms.Control)">
+            <summary>
+            Clear all ComboBoxes in specific container like Panels,GroupeBox,etc.
+            </summary>
+            <param name="controlContainerName">Name of the container control</param>
+        </member>
+        <member name="T:Anyo.WindowsForms.CommonFunctionality.UI.ChildNastedLevel">
+            <summary>
+            Specifies nesting level of the child form
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.CommonFunctionality.UI.FormsUI">
+            <summary>
+            This class provides the UI utilities
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.UI.FormsUI.DisableSorting(System.Windows.Forms.DataGridView)">
+            <summary>
+            Disable sorting of all columns in specific DataGridView object
+            </summary>
+            <param name="dataGridViewName">DataGridView object name</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.UI.FormsUI.SetBackGroundColorOfMDIForm(System.Drawing.Color,System.Windows.Forms.Control.ControlCollection)">
+            <summary>
+            Set Background color of MDI parent form
+            </summary>
+            <param name="color">Color name</param>
+            <param name="controls">MDI parent object</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.CommonFunctionality.UI.FormsUI.LoadChildForm(System.Windows.Forms.Form,System.Windows.Forms.Form,Anyo.WindowsForms.CommonFunctionality.UI.ChildNastedLevel,Anyo.WindowsForms.Controls.Buttons.GradientButton)">
+            <summary>
+            Load Child form in MDI parent
+            </summary>
+            <param name="parentForm">Name of parent form</param>
+            <param name="childlForm">Name of child form</param>
+            <param name="nestedLevel">Nesting level of the child form</param>
+            <param name="buttonName">Button that activate child form.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Anyo.WindowsForms.MessageBoxes</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:Anyo.WindowsForms.MessageBoxes.SampleMessageBox" -->
+        <member name="F:Anyo.WindowsForms.MessageBoxes.SampleMessageBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.MessageBoxes.SampleMessageBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.MessageBoxes.SampleMessageBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.MessageBoxes.SampleMessageBox.Show(System.String)">
+            <summary>
+            Displays a message box with specified text.
+            </summary>
+            <param name="messageText">The text to display in the message box.</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.MessageBoxes.SampleMessageBox.Show(System.String,System.String)">
+            <summary>
+             Displays a message box with specified text and caption.
+            </summary>
+            <param name="messageText">The text to display in the message box.</param>
+            <param name="captionText">The text to display in the title bar of the message box.</param>
+        </member>
+        <member name="T:Anyo.WindowsForms.MessageBoxes.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.MessageBoxes.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.MessageBoxes.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.MessageBoxes.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

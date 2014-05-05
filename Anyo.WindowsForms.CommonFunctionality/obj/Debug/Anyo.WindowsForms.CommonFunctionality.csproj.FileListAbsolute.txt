@@ -1,0 +1,6 @@
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsCommonFunctionality\Anyo.WindowsForms.CommonFunctionality\bin\Debug\Anyo.WindowsForms.CommonFunctionality.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsCommonFunctionality\Anyo.WindowsForms.CommonFunctionality\bin\Debug\Anyo.WindowsForms.CommonFunctionality.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsCommonFunctionality\Anyo.WindowsForms.CommonFunctionality\obj\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsCommonFunctionality\Anyo.WindowsForms.CommonFunctionality\obj\Debug\Anyo.WindowsForms.CommonFunctionality.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsCommonFunctionality\Anyo.WindowsForms.CommonFunctionality\obj\Debug\Anyo.WindowsForms.CommonFunctionality.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsCommonFunctionality\Anyo.WindowsForms.CommonFunctionality\bin\Debug\Anyo.WindowsForms.CommonFunctionality.XML

@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Anyo.WindowsForms.Controls</name>
+    </assembly>
+    <members>
+        <member name="F:Anyo.WindowsForms.Controls.Navigations.DataGridNavigation.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Navigations.DataGridNavigation.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Navigations.DataGridNavigation.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Buttons.GradientButton">
+            <summary>
+            Gradi
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.OnMouseLeave(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.OnMouseEnter(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.OnClick(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.NotifyDefault(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.PerformClick">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Anyo.WindowsForms.Controls.Buttons.GradientButton.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Buttons.GradientButton.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ButtonRadius">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.BorderWidth">
+            <summary>
+            Gets or sets the border width of the GradientButton
+            </summary>
+            /// <remarks>
+            The elevation-required shield is only supported under Windows Vista
+            and later. The value of this property will be ignored under earlier
+            operating systems.
+            </remarks>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ImageCornerX">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ImageCornerY">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.SmoothingQuality">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.GradientStyle">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ButtonStyle">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.NormalBorderColor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.NormalColorA">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.NormalColorB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.HoverBorderColor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.HoverColorA">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.HoverColorB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ClickBorderColor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ClickColorA">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ClickColorB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.AddImage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.ImageAlignment">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.TextX">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.TextY">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.TextAlignment">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.Active">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Buttons.GradientButton.Text">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Buttons.GradientButton.SmoothingQualities">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Buttons.GradientButton.ButtonStyles">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Buttons.GradientButton.GradientStyles">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Buttons.GradientButton.Alignment">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonHeaderColor_NormalHover">
+            <summary>
+            Gets or sets the color of drop down button's header in main menu in normal and hover state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonHeaderColor_Clicked">
+            <summary>
+            Gets or sets the color of drop down button's header in main menu when button is clicked
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonBodyColor_NormalHover">
+            <summary>
+            Gets or sets the color of drop down button's body in main menu in normal and hover state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonBodyColor_Clicked">
+            <summary>
+            Gets or sets the color of drop down button's body in main menu when button is clicked
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonFooterColor_Normal">
+            <summary>
+            Gets or sets the color of drop down button's footer in main menu in normal state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonFooterColor_Hover">
+            <summary>
+            Gets or sets the color of drop down button's footer in main menu in hover state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuButtonFooterColor_Clicked">
+            <summary>
+            Gets or sets the color of drop down button's footer in main menu when button is clicked
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuTextColor_Normal">
+            <summary>
+            Gets or sets the fore color of text in main menu when drop down button is in normal state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuTextColor_Hover">
+            <summary>
+            Gets or sets the fore color of text in main menu when drop down button is in hover state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MainMenuTextColor_Clicked">
+            <summary>
+            Gets or sets the fore color of text in main menu when drop down button is clicked
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.BackgroundToolStripColor">
+            <summary>
+            Gets or sets the color of ToolStrip background
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MenuItemsBackgroundTopColor">
+            <summary>
+            Gets or sets the top color of menu items content gradient background
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MenuItemsBackgroundBottomColor">
+            <summary>
+            Gets or sets the bottom color of menu items content gradient background
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MenuItemsContentBorderColor">
+            <summary>
+            Gets or sets the border color of menu items content gradient background
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MenuItemsTextColor_Normal">
+            <summary>
+            Gets or sets text fore color of menu items in normal state
+            </summary>
+        </member>
+        <member name="P:Anyo.WindowsForms.Controls.Menus.MovingRectangleToolStrip.MenuItemsTextColor_HoverClicked">
+            <summary>
+            Gets or sets text fore color of menu items in hover and clicked state
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.Navigations.Display">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Anyo.WindowsForms.Controls.Navigations.Display.FirstPage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Anyo.WindowsForms.Controls.Navigations.Display.LastPage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Anyo.WindowsForms.Controls.DataGridViewHeaderPainting.OrangeGradient">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Anyo.WindowsForms.Controls.DataGridViewHeaderPainting.OrangeGradient.Painter(System.Windows.Forms.DataGridViewCellPaintingEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>
